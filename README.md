@@ -1,11 +1,3 @@
-- 👋 Hi, I’m @shuhei0916
-- 👀 I’m interested in Python, Test-Driven-Development(TDD), and AI.
-- 🌱 I’m currently learning javascript, C#, 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 <!---
 shuhei0916/shuhei0916 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -18,11 +10,12 @@ You can click the Preview link to take a look at your changes.
 
 
 <!-- 2. プロフィールや連絡先を変更 -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">  Hi, I’m @shuhei0916
 
 - 🧑‍💻 I'm a backend engineer.
-- 🌱 I’m currently learning go!
-- 📫 How to reach me: [Twitter - @username](https://twitter.com/username)
+- 👀 I’m interested in Python, Test-Driven-Development(TDD), and AI.
+- 🌱 I’m currently learning javascript, C#, 
+- 📫 How to reach me: 
 <br>
 
 
@@ -44,8 +37,6 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--
-This repository is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
