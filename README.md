@@ -25,9 +25,10 @@ You can click the Preview link to take a look at your changes.
 
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
 ## 🏃‍♀️ Activities
-<div align="left"> 
+<div align="left">
+<!--   TODO: リンク切れの原因を調査する -->
 <!--   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=shuhei0916&theme=vue-dark&layout=compact" /> -->
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuhei0916&theme=vue-dark&layout=compact" />
+<!--   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuhei0916&theme=vue-dark&layout=compact" /> -->
 </div>
 
 
