@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=c, java, html, css, js,python,go, godot, docker,aws" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=linux,c,java,python,cs,docker,html,css,js,nodejs,ruby" />
 <br>
 
 
