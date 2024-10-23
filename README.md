@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ## Hi, I’m @shuhei0916
 
-- 🧑‍💻 I'm a backend engineer.
+- 🧑‍💻 I'm a frontend engineer.
 - 👀 I’m interested in Python, Test-Driven-Development(TDD), and AI.
 - 🌱 I’m currently learning javascript, C#, 
 - 📫 How to reach me: 
